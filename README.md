@@ -36,6 +36,15 @@ To address the quality and tidiness issues, the following cleaning and preparati
 * Removed duplicated values in the jpg_url column.
 * Unpivoted the dog breed, confidence level, and test results into a single column.
 * Combined the cleaned and prepared datasets into a single dataset for analysis.
+
+## Analyzing and Visualizing Data
+We address six analytical questions and provide visualizations to support our findings.
+* What is the distribution of ratings given to dogs on the platform?
+* What are the most popular dog breeds among users on the platform?
+* What are the most popular dog names among users on the platform?
+* What are the most popular dog stages among users on the platform?
+* Is there a correlation between retweet count and favorite count?
+* What is the frequency of different dog breeds in the data?
 ## Conclusion
 Data wrangling efforts involved significant cleaning and preparation to make the data usable for analysis. Issues were corrected and data was structured to allow answering the research questions set out. Despite the challenges, a clean and well-structured dataset was created, ready for further analysis.
 
